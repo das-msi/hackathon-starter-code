@@ -91,4 +91,6 @@ After following these steps, you should see real-time ECG/EMG signals streaming 
 
 ## Conclusion
 This guide covers the setup for acquiring, streaming, and visualizing ECG/EMG data using BioAmp-EXG-Pill with OpenViBE via LSL. The same approach can be applied to other bio-signal monitoring tasks with appropriate adjustments.
+## Contribution
 
+Special thanks to VIKAS SHARMA 
