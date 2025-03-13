@@ -56,7 +56,8 @@ After uploading the firmware and connecting the electrodes, execute the appropri
    - **Signal Display** (second instance) to visualize processed signals.
 4. Connect the blocks accordingly as shown below:
 
-![Designer Block Setup](image.png)
+
+![Designer Block Setup][image](https://github.com/user-attachments/assets/06e3c997-19b8-4edc-9b26-37c1f1a61cf2)
 
 5. Run the scenario and observe the real-time data visualization.
 
@@ -69,12 +70,19 @@ After uploading the firmware and connecting the electrodes, execute the appropri
 6. Set **Drift Tolerance (ms)** to `2`.
 7. Click **Apply** and **Connect** to start data acquisition.
 
-![OpenViBE Acquisition Server Settings](image.png)
+
+![OpenViBE Acquisition Server Settings](https://github.com/user-attachments/assets/ee9a5c6d-9c6d-48a8-b250-416fb5018301)
 
 ## Result
 After following these steps, you should see real-time ECG/EMG signals streaming in OpenViBE with proper drift correction. Below is an example result from the OpenViBE visualization:
+![Result][image](https://github.com/user-attachments/assets/13827a6a-84c4-401b-a38e-96815c3795ab)
 
-![Result](result.png)
+## other
+![Server](https://github.com/user-attachments/assets/3e3c44be-b908-4f07-b024-b6bf525af8b0)
+
+
+
+
 
 ## Conclusion
 This guide covers the setup for acquiring, streaming, and visualizing ECG/EMG data using BioAmp-EXG-Pill with OpenViBE via LSL. The same approach can be applied to other bio-signal monitoring tasks with appropriate adjustments.
