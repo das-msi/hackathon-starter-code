@@ -77,6 +77,11 @@ After uploading the firmware and connecting the electrodes, execute the appropri
 After following these steps, you should see real-time ECG/EMG signals streaming in OpenViBE with proper drift correction. Below is an example result from the OpenViBE visualization:
 ![Result][image](https://github.com/user-attachments/assets/13827a6a-84c4-401b-a38e-96815c3795ab)
 
+
+
+![image](https://github.com/user-attachments/assets/535a3b42-86c6-4f72-930c-755395b4faac)
+
+
 ## other
 ![Server](https://github.com/user-attachments/assets/3e3c44be-b908-4f07-b024-b6bf525af8b0)
 
